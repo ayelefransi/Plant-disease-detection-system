@@ -1,0 +1,5 @@
+# Python dependencies for model integration
+tensorflow>=2.10.0
+numpy>=1.21.0
+pillow>=8.3.0
+opencv-python>=4.5.0
